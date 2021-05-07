@@ -1,0 +1,16 @@
+/*        Footer        */
+footer {
+  text-align: center;
+  padding: 3rem 0 2rem;
+  // margin-top: 5rem;
+
+  p{
+  color: #0fbb3d;
+  opacity: 0.6;
+  padding: 1rem 0;
+
+  &:hover {
+      opacity: 1;
+    }
+  }
+}
